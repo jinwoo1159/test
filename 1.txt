@@ -1,5 +1,2 @@
-테스트 입니다. 테스트 확인 부탁드립니다.
-pull request 테스트 입니다. 
-pull request 테스트 입니다.
-pull request 테스트 입니다.
-pull request 테스트 입니다.
+다 지우고 테스트를 다시하는데 과연 충돌을 해결할 수 있을까?
+pull request conflict 해결 해봐라!
